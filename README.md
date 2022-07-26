@@ -1,3 +1,3 @@
 # rockPaperScissors
-Rock Paper Scissors project Preparation 
-I created a function that will randomly return either ‘Rock’, ‘Paper’ or ‘Scissors’. 
+Rock paper scissors game where I play against the computer
+First step: I created a function that will randomly return either ‘Rock’, ‘Paper’ or ‘Scissors’. 
