@@ -28,12 +28,8 @@ const playRound = (playerSelection, computerSelection) => {
     }
 }
 
-
-
-//console.log(playRound(playerSelection, computerSelection))
-
 const game = () => {
-    for (let i = 0; i < 5; i++) {
+    for (let i = 0; i < 25; i++) {
         const computerSelection = getComputerChoice();
         const playerSelection = prompt("Choose what to throw", "Rock, Paper, Scissors");
         console.log(playRound(playerSelection, computerSelection));
